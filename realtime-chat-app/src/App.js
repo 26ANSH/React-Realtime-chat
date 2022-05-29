@@ -9,12 +9,12 @@ import signup from './images/signup.svg';
 import googleLogo from './images/googleLogo.svg';
 
 firebase.initializeApp({
-  apiKey: "AIzaSyCa4zhzkW4wCfTO1iZw7SgJq5l12so6kqE",
-  authDomain: "av-chat-c94e7.firebaseapp.com",
-  projectId: "av-chat-c94e7",
-  storageBucket: "av-chat-c94e7.appspot.com",
-  messagingSenderId: "385064655358",
-  appId: "1:385064655358:web:dfb2a6260301f9fd7588af"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 })
 
 
